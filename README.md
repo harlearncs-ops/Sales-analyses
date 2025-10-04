@@ -25,6 +25,7 @@ China leads in sales quantity with 17.4%, followed by India and Japan.
 Australia and Japan are top performers in revenue generation, despite not having the highest sales volume.
 
 France and Germany have lower figures in both sales quantity and revenue, indicating underperformance relative to established markets.
+---
 🚀 Usage & Applications
 
 This analysis is useful for:
